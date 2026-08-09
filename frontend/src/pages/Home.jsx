@@ -133,7 +133,7 @@ export default function Home() {
               size="large"
               startIcon={<DownloadIcon />}
               component="a"
-              href="../../public/resume.pdf"
+              href="/resume.pdf"
               download
             >
               Download Resume
@@ -184,7 +184,7 @@ export default function Home() {
           }}
         >
           <Avatar
-            src="../../public/DP_ORG.png"
+            src="/DP_ORG.png"
             sx={{
               width: 320,
               height: 320,
